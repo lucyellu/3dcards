@@ -15,6 +15,5 @@ This project uses [three.js](https://github.com/mrdoob/three.js) as its foundati
 ## Installation
 
 ```bash
-git clone https://github.com/lucyellu/3dcards.git
 cd 3dcards
-npm install
+python -m http.server
