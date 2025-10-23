@@ -17,5 +17,3 @@ This project uses [three.js](https://github.com/mrdoob/three.js) as its foundati
 ```bash
 python -m http.server
 
-```bash
-[python -m http.server](http://localhost:8000/examples/)
