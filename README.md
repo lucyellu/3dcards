@@ -10,9 +10,7 @@ A customized version of three.js focused on creating interactive 3D card experie
 - 
 ## Demo Video
 
-<video src="periodictable_3dcards_004_2xspeed_nosound.mp4" width="800" height="450" controls>
-  Your browser does not support the video tag.
-</video>
+[![3D Cards Demo](https://img.youtube.com/vi/07I_DbMYWZU/0.jpg)](https://youtu.be/07I_DbMYWZU)
 
 **Note:** This video shows the 3D cards effect at 2x speed without audio.
 ## Based On
